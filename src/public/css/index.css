@@ -1,0 +1,123 @@
+body {
+    background-color: #e2d9b1;
+}
+
+.img1{
+    text-align: center;
+    height: 850px;
+}
+
+h1 {
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    justify-content: left;
+    align-items: left;
+}
+
+.links{
+    display: flex;
+    gap: 80px;
+    align-items: center;
+    color: antiquewhite;
+}
+
+/*main*/
+.h31{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 25px;
+    color: #9b8b43;
+}
+
+.h32{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 20px;
+    color: rgb(175, 175, 41);
+}
+
+.img_index
+{
+    border: 10px solid #FFFFFF;
+    margin: 5px;
+    text-align: center;
+}
+
+.img11{
+    height: 500px;
+    text-align: left;
+}
+
+.img3{
+    height: 500px;
+    text-align: left;
+    margin-left: 0%;
+}
+
+.img4{
+    height: 500px;
+    text-align: right;
+}
+
+.img5{
+    height: 400px;
+    text-align: left;
+}
+
+.img6{
+    height: 400px;
+    text-align: right;
+}
+
+.sillas{
+    margin-left: 30%;
+    font-size: 30px;
+    margin-bottom: 0%;
+    display: flex;
+    gap: 180px;
+    color: #9b8b43;
+}
+
+.sillones{
+    margin-left: 35%;
+    font-size: 30px;
+    margin-bottom: 0%;
+    display: flex;
+    gap: 180px;
+    color: #9b8b43;
+}
+
+.almohadones{
+    margin-left: 25%;
+    font-size: 30px;
+    margin-bottom: 0%;
+    display: flex;
+    gap: 180px;
+    color: #9b8b43;
+}
+
+.div1{
+    text-align: left;
+}
+
+.div2{
+    text-align: center;
+}
+
+.div3{
+    text-align: right;
+}
+
+.contenedor{
+    display: flex;
+    gap: 275px;
+}
+
+footer{
+    background-color: #9b8b43;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+}
